@@ -1,6 +1,7 @@
 The rainbow
 
 purple
+white
 blue
 pink
 yellow
